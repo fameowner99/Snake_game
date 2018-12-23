@@ -9,4 +9,4 @@ How to install and run:
 3) make
 4) ./nibbler X Y (X and Y are numbers) 
 
-<a href="https://imgflip.com/gif/2pmunx"><img src="https://i.imgflip.com/2pmunx.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/2pmuqi"><img src="https://i.imgflip.com/2pmuqi.gif" title="made at imgflip.com"/></a>
