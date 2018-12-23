@@ -1,4 +1,4 @@
-# Snake_game
+# NIBBLER
 Simply snake game using dynamic libraries for GUI and sounds
 
 Works only on MACOS
