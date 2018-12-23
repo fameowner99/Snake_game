@@ -257,9 +257,6 @@ int		GUI::key_code(void)
 			return (WASD);
 		else if (event.key.keysym.sym == SDLK_KP_2)
 			return (GUI_SFML);
-		else if (event.key.keysym.sym == SDLK_KP_3)
-			return (GUI_GLFW);
-
 	}
 	return (-1);
 }

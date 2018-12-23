@@ -128,8 +128,6 @@ int		GUI::key_code(void)
 {
 	if (this->_event.key.code == sf::Keyboard::Numpad1)
 		return (GUI_SDL);
-	if (this->_event.key.code == sf::Keyboard::Numpad3)
-		return (GUI_GLFW);
 	else if (this->_event.key.code == sf::Keyboard::Escape)
 		return ESCAPE;
 	else if (this->_event.key.code == sf::Keyboard::P)

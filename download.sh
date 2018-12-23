@@ -29,5 +29,3 @@ fi
 git clone $LINK1 $DIRECTORY1
 
 git clone $LINK2 $DIRECTORY2
-
-cp -R $LINK3 $DIRECTORY3

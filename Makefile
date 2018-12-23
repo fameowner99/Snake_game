@@ -6,7 +6,7 @@
 #    By: anesteru <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2018/10/14 20:06:52 by anesteru          #+#    #+#              #
-#    Updated: 2018/10/14 20:06:53 by anesteru         ###   ########.fr        #
+#    Updated: 2018/12/23 14:09:38 by vmiachko         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -73,7 +73,7 @@ RED				=	\033[0;31m
 NO_COLOR		=	\033[0m
 
 
-all: $(SOUND_LIB) $(GRAPHICS_LIB1) $(GRAPHICS_LIB2) $(GRAPHICS_LIB3) $(NAME) 
+all: $(SOUND_LIB) $(GRAPHICS_LIB1) $(GRAPHICS_LIB2) $(NAME) 
 
 obj:
 	mkdir -p obj

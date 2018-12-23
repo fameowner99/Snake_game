@@ -6,7 +6,7 @@
 /*   By: anesteru <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/11/01 20:21:47 by anesteru          #+#    #+#             */
-/*   Updated: 2018/11/01 20:21:48 by anesteru         ###   ########.fr       */
+/*   Updated: 2018/12/23 14:13:08 by vmiachko         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,7 +27,7 @@ void			start_menu(IGUI *&gui, int &p, int &dif, void *&handle, int height, int w
 			if (gui->event_type() == KEY_PRESSED)
 			{
 				int gui_key;
-				if ((gui_key = gui->key_code()) == GUI_SDL || gui_key == GUI_SFML || gui_key == GUI_GLFW)
+				if ((gui_key = gui->key_code()) == GUI_SDL || gui_key == GUI_SFML)
 				{
 					change_library(gui, gui_key, handle);
 					gui = create(handle, level, width, height);
