@@ -11,3 +11,5 @@ How to install and run:
 
 <a href="https://imgflip.com/gif/2pmurk"><img src="https://i.imgflip.com/2pmurk.gif" title="made at imgflip.com"/></a>
 <a href="https://imgflip.com/gif/2pmuw3"><img src="https://i.imgflip.com/2pmuw3.gif" title="made at imgflip.com"/></a>
+
+Graphical user interface might be changed in run-time
